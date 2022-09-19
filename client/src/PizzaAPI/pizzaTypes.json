@@ -1,0 +1,9 @@
+{
+    "PizzaTypes": [
+        {"Name": "Make your own", "Value": 0, "Ingredients": [], "Toppings": []},
+        {"Name": "Vegetarian",    "Value": 1, "Ingredients": [50, 51, 52], "Toppings": [11, 12, 15, 16, 17, 19, 21]},
+        {"Name": "Meat Lovers",   "Value": 2, "Ingredients": [50, 51, 52], "Toppings": [10, 13, 14, 20]},
+        {"Name": "Cheese Lovers", "Value": 3, "Ingredients": [50, 51, 52, 53, 54, 55], "Toppings": [18]},
+        {"Name": "All In",        "Value": 4, "Ingredients": [50, 51, 52, 53, 54, 55], "Toppings": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]}
+    ]
+}

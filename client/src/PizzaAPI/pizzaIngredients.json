@@ -1,0 +1,15 @@
+{
+    "Ingredients": [
+        {"Name": "Mozzarella Cheese", "Value": 50},
+        {"Name": "Tomato Sauce", "Value": 51},
+        {"Name": "Flour", "Value": 52},
+        {"Name": "Parmesan Cheese", "Value": 53},
+        {"Name": "Feta Cheese", "Value": 54},
+        {"Name": "Fontina Cheese", "Value": 55}
+    ],
+    "DoughTypes": [
+        {"Name": "Wheat Dough", "Value": 1},
+        {"Name": "Gluten Free Dough", "Value": 2}
+    ]
+    
+}

@@ -1,0 +1,17 @@
+{
+    "Toppings": [
+        {"Name": "Pepperoni", "Value": 10},
+        {"Name": "Mushrooms", "Value": 11},
+        {"Name": "Bell peppers", "Value": 12},
+        {"Name": "Italian pepperoncini", "Value": 13},
+        {"Name": "Italian sausage", "Value": 14},
+        {"Name": "Sliced black olives", "Value": 15},
+        {"Name": "Chopped fresh basil", "Value": 16},
+        {"Name": "Baby arugula", "Value": 17},
+        {"Name": "Pesto", "Value": 18},
+        {"Name": "Onions", "Value": 19},
+        {"Name": "Ham", "Value": 20},
+        {"Name": "Spinach", "Value": 21},
+        {"Name": "Pineapple",  "Value": 22}
+    ]
+}
